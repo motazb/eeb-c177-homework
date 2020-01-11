@@ -12,3 +12,5 @@ dinner: missed dinner, just had a protein bar and shake
 
 Lunch: jambalaya, soy milk, banana, rica, broccoli
 Dinner: brown rice, brown beans, fish, lettuce
+
+Brunch: Omlette, scrambelled eggs, potatoes, chicken with quinoa
