@@ -1,0 +1,2 @@
+head -n 5 Pacific2013_data.csv
+this showed the first five lines of the file and that the delimeter is semi-colons
