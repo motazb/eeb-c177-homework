@@ -1,0 +1,1 @@
+cut -d ";" | tail -n +2 | head -n 10 ~/Developer/repos/CSB/unix/data/Pacific2013_data.csv > ~/Developer/repos/eeb-c177-homework/class_assignments/homework-two/Pacific-ten.txt
