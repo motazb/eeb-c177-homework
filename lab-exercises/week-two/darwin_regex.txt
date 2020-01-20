@@ -1,0 +1,12 @@
+1. \bs\w+\b
+2. \w*(?=\.)
+3. [\w\s,':;()-]{0,}(?=\?|\.)
+4. (?<=\. )How.*variation\?
+
+Bonus explanation
+The look behind function highlights what comes after any period followed by a space. The \w+
+is to tell it to highlight at least one word. The very first word in the text "Natural" is not
+after a period and a space, which is why I put the second part next to the | symbol which
+means "or". What comes after the | symbol is a ^ symbol, to signify "start with" and then \w+, to
+signify at least one word.
+Bonus: (?<=\. )\w+|^\w+

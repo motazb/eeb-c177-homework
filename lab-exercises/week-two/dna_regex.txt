@@ -1,11 +1,2 @@
 1. c{2,5}
 2. ct[act]
-
-1. \bs\w*\b
-2. w*(?=\.)
-3. 
-4. (?<=\. )How.*variation\?
-
-Bonus:
-
-
