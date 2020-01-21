@@ -1,0 +1,5 @@
+head -n 5 fish_species.txt > fishes-sort.txt | sort
+
+head -n 5 fish_species.txt > fishes-rev-sort.txt | sort -r
+
+head -n 20 fish_species.txt | cut -d " " -f 1 | uniq > fishes-unique.txt
