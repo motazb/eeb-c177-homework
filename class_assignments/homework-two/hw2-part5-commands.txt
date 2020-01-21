@@ -1,0 +1,2 @@
+tail -n +2 Pacific2013_data.csv | cut -d ";" -f 2-6 | tr ";" " " | sort -r -n -k 7 > bodym.csv
+
