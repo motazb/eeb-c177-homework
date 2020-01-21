@@ -1,0 +1,7 @@
+1.10.1
+2) 553KB used ls -lh
+4) 16 used grep -c
+
+1.10.2
+3) 1622 used grep -c
+7) 132 used grep -c
